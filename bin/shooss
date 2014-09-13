@@ -1,0 +1,7 @@
+#!/usr/bin/env node
+
+var config = require('../lib/shooss-config'),
+    logger = require('../lib/shooss-logger'),
+    cli    = require('../lib/shooss-cli');
+
+cli.run(config, logger);

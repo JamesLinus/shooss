@@ -1,0 +1,29 @@
+{
+  "name": "shooss",
+  "version": "1.0.2",
+  "description": "Super simple yet comprehensive static files server. Shuss",
+  "license": "MIT",
+  "author": "Thierry Poinot",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shootshoot/shooss"
+  },
+  "bin": "./bin/shooss",
+  "dependencies": {
+    "express": "~3.4.8",
+    "convict": "^0.4.2",
+    "winston": "^0.7.3",
+    "livereload": "^0.3.3",
+    "yargs": "^1.2.6",
+    "remarked": "^0.1.4",
+    "marked": "^0.3.2",
+    "markdown": "^0.5.0",
+    "jade": "^1.6.0",
+    "less": "^1.7.5"
+  },
+  "devDependencies": {
+    "coffee-script": "^1.8.0",
+    "grunt": "~0.4.4",
+    "grunt-contrib-coffee": "~0.10.1"
+  }
+}

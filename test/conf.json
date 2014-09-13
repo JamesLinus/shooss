@@ -1,0 +1,7 @@
+{
+  "port":8000,
+  "livereload": true,
+  "livereloadport": 9854,
+  "verbose": true,
+  "dir": "./test"
+}
