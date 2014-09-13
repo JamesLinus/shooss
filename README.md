@@ -2,14 +2,6 @@
 
 Super simple yet comprehensive static files server. Shooss :ski:
 
-_u*:_ pick one
-* uber
-* unicorn
-* universal
-* ubuesque
-* unix
-* uhuhuh
-
 ## Credits
 
 Based on [Shuss](https://github.com/ArnaudRinquin/shuss) by ArnaudRinquin
